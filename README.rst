@@ -3,17 +3,11 @@ analyze_ab_test_results
 =======================
 
 
-Add a short description here!
+Project in course of Udacity's Data Analyst Nanodegree Programm
 
 
 Description
 ===========
 
-A longer description of your project goes here...
-
-
-Note
-====
-
-This project has been set up using PyScaffold 3.1. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
+This project is part of the Udacity's Data Analyst Nanodegree Programm.
+It's answering concise questions of a pre-formatted questionaire, but at the very end goes a bit beyond.
