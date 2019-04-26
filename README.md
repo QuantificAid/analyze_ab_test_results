@@ -1,5 +1,5 @@
 # analyze_ab_test_results
-***"Analyse AB Test Results" - ***  
+***"Analyse AB Test Results" -***  
 ***A Project in course of Udacity's Data Analyst Nanodegree Program***
 
 ## Summary
